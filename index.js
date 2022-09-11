@@ -1,0 +1,4 @@
+function myFile(){
+  $('file').click();
+
+}
